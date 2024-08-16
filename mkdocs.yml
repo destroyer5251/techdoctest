@@ -1,5 +1,2 @@
 site_name: 'Backstage Demo'
 
-plugins:
-  - techdocs-core
-  - kroki
