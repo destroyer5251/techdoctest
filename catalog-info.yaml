@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: replace-me
   annotations:
-  backstage.io/techdocs-ref: value
+    backstage.io/techdocs-ref: value
   description: Replace me with a real description.
   tags:
     - go
